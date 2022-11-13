@@ -1,5 +1,5 @@
 [package]
-name = "rustRampUp"
+name = "rust_ramp_up"
 version = "0.1.0"
 edition = "2021"
 
